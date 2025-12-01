@@ -200,7 +200,8 @@ export default function KrishiMitra() {
     try {
       // Replace YOUR_API_KEY with your NewsAPI.org API key
       const response = await axios.get(
-        'https://newsapi.org/v2/everything?q=agriculture OR farming OR crops&language=en&sortBy=publishedAt&pageSize=10&apiKey=91b30bc7f1614a1394e0b98852a71807'
+        'https://newsapi.org/v2/everything?q=agriculture OR farming OR crops&language=en&sortBy=publishedAt&pageSize=10&apiKey=1313d11f045f4f3f857e6f01169c608b'
+        
       );
       setNewsArticles(response.data.articles);
     } catch (e) {

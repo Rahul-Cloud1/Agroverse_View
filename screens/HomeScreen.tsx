@@ -173,7 +173,7 @@ export default function HomeScreen() {
                     style={styles.featureButton}
                     onPress={() => navigation.navigate('Main', { screen: 'AgroMart' })}
                   >
-                    <Image source={require('../assets/Images/others/agromart.jpeg')} style={styles.featureImage} />
+                    <Image source={require('../assets/Images/others/agromart.png')} style={styles.featureImage} />
                     <Text style={styles.buttonText}>🛒 AgroMart</Text>
                   </TouchableOpacity>
                   <TouchableOpacity
@@ -199,7 +199,7 @@ export default function HomeScreen() {
                     style={styles.featureButton}
                     onPress={() => navigation.navigate('Main', { screen: 'AgroRent' })}
                   >
-                    <Image source={require('../assets/Images/others/agrorent.jpeg')} style={styles.featureImage} />
+                    <Image source={require('../assets/Images/others/agrorent.png')} style={styles.featureImage} />
                     <Text style={styles.buttonText}>🚜 AgroRent</Text>
                   </TouchableOpacity>
                   
