@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Android
+android/.gradle
+android/app/build/
+android/gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/DerivedData/
+ios/.xcworkspace
+
+# VSCode
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment files
+.env

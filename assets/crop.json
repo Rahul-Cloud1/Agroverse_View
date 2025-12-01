@@ -1,0 +1,612 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Groundnut",
+        "Red Gram",
+        "Cotton",
+        "Chillies",
+        "Turmeric"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "crops": [
+        "Jowar",
+        "Bajra",
+        "Black Gram",
+        "Green Gram",
+        "Sunflower"
+      ]
+    }
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "kharif": {
+      "months": [
+        "May",
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Millets"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Mustard"
+      ]
+    }
+  },
+  {
+    "state": "Assam",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "crops": [
+        "Paddy",
+        "Jute",
+        "Maize"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "crops": [
+        "Wheat",
+        "Rapeseed",
+        "Mustard",
+        "Pulses"
+      ]
+    }
+  },
+  {
+    "state": "Bihar",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Pulses",
+        "Arhar"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Gram",
+        "Masoor",
+        "Peas"
+      ]
+    }
+  },
+  {
+    "state": "Chhattisgarh",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Groundnut",
+        "Soybean"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "crops": [
+        "Wheat",
+        "Chickpea",
+        "Mustard",
+        "Lentil"
+      ]
+    }
+  },
+  {
+    "state": "Goa",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Cashew",
+        "Coconut"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Vegetables",
+        "Spices"
+      ]
+    }
+  },
+  {
+    "state": "Gujarat",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Cotton",
+        "Groundnut",
+        "Bajra",
+        "Paddy",
+        "Maize"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Gram",
+        "Mustard",
+        "Cumin",
+        "Barley"
+      ]
+    }
+  },
+  {
+    "state": "Haryana",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Bajra",
+        "Cotton",
+        "Sugarcane"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Mustard",
+        "Gram"
+      ]
+    }
+  },
+  {
+    "state": "Himachal Pradesh",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Maize",
+        "Rice",
+        "Soybean",
+        "Millets"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Peas"
+      ]
+    }
+  },
+  {
+    "state": "Jharkhand",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Arhar",
+        "Groundnut"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Gram",
+        "Mustard"
+      ]
+    }
+  },
+  {
+    "state": "Karnataka",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Ragi",
+        "Maize",
+        "Tur",
+        "Groundnut",
+        "Soybean"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Wheat",
+        "Bengal Gram",
+        "Safflower",
+        "Sunflower"
+      ]
+    }
+  },
+  {
+    "state": "Kerala",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Banana",
+        "Tapioca",
+        "Ginger"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Vegetables",
+        "Pepper",
+        "Cardamom"
+      ]
+    }
+  },
+  {
+    "state": "Madhya Pradesh",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Soybean",
+        "Paddy",
+        "Maize",
+        "Cotton"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Gram",
+        "Mustard",
+        "Lentil"
+      ]
+    }
+  },
+  {
+    "state": "Maharashtra",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Cotton",
+        "Soybean",
+        "Paddy",
+        "Tur",
+        "Groundnut"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Wheat",
+        "Gram",
+        "Sunflower"
+      ]
+    }
+  },
+  {
+    "state": "Punjab",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Cotton",
+        "Sugarcane"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Gram",
+        "Mustard"
+      ]
+    }
+  },
+  {
+    "state": "Rajasthan",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Bajra",
+        "Maize",
+        "Pulses",
+        "Groundnut"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Mustard",
+        "Gram"
+      ]
+    }
+  },
+  {
+    "state": "Tamil Nadu",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Millets",
+        "Groundnut",
+        "Cotton"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Chillies",
+        "Pulses",
+        "Sunflower"
+      ]
+    }
+  },
+  {
+    "state": "Telangana",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Cotton",
+        "Maize",
+        "Red Gram",
+        "Soybean"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "October",
+        "November",
+        "December"
+      ],
+      "crops": [
+        "Wheat",
+        "Bengal Gram",
+        "Safflower"
+      ]
+    }
+  },
+  {
+    "state": "Uttar Pradesh",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Maize",
+        "Jowar",
+        "Bajra",
+        "Arhar"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "crops": [
+        "Wheat",
+        "Barley",
+        "Gram",
+        "Mustard",
+        "Peas"
+      ]
+    }
+  },
+  {
+    "state": "West Bengal",
+    "kharif": {
+      "months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "crops": [
+        "Paddy",
+        "Jute",
+        "Maize"
+      ]
+    },
+    "rabi": {
+      "months": [
+        "November",
+        "December",
+        "January"
+      ],
+      "crops": [
+        "Wheat",
+        "Mustard",
+        "Pulses"
+      ]
+    }
+  }
+]
