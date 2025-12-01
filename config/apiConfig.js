@@ -1,7 +1,8 @@
 // API Configuration
 const API_CONFIG = {
   // Local backend for development
-  BASE_URL: 'http://localhost:5000',
+  //BASE_URL: 'http://localhost:5000',
+  BASE_URL: 'https://agroverse-backend-mongodb.onrender.com',
   
   ENDPOINTS: {
     AUTH: {

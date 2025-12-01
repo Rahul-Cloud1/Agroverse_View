@@ -168,13 +168,7 @@ export default function HomeScreen() {
               {loading && <ActivityIndicator size="large" color="#33691e" />}
               <View style={styles.featuresContainer}>
                 <View style={styles.featureRow}>
-                  <TouchableOpacity
-                    style={styles.featureButton}
-                    onPress={() => navigation.navigate('Main', { screen: 'KrishiMitra' })}
-                  >
-                    <Image source={require('../assets/Images/others/krishimitra.png')}  style={styles.featureImage} />
-                    <Text style={styles.buttonText}>🌾 KrishiMitra</Text>
-                  </TouchableOpacity>
+                  
                   <TouchableOpacity
                     style={styles.featureButton}
                     onPress={() => navigation.navigate('Main', { screen: 'AgroMart' })}
@@ -182,15 +176,18 @@ export default function HomeScreen() {
                     <Image source={require('../assets/Images/others/agromart.jpeg')} style={styles.featureImage} />
                     <Text style={styles.buttonText}>🛒 AgroMart</Text>
                   </TouchableOpacity>
-                </View>
-                <View style={styles.featureRow}>
                   <TouchableOpacity
                     style={styles.featureButton}
-                    onPress={() => navigation.navigate('Main', { screen: 'AgroRent' })}
+                    onPress={() => navigation.navigate('Main', { screen: 'KrishiMitra' })}
                   >
-                    <Image source={require('../assets/Images/others/agrorent.jpeg')} style={styles.featureImage} />
-                    <Text style={styles.buttonText}>🚜 AgroRent</Text>
+                    <Image source={require('../assets/Images/others/krishimitra.png')}  style={styles.featureImage} />
+                    <Text style={styles.buttonText}>🌾 KrishiMitra</Text>
                   </TouchableOpacity>
+                </View>
+                <View style={styles.featureRow}>
+                 
+                  
+                  
                   <TouchableOpacity
                     style={styles.featureButton}
                     onPress={() => navigation.navigate('Main', { screen: 'AgriKart' })}
@@ -198,6 +195,14 @@ export default function HomeScreen() {
                     <Image source={require('../assets/Images/others/agrikart.jpg')} style={styles.featureImage} />
                     <Text style={styles.buttonText}>🛍️ AgriKart</Text> 
                   </TouchableOpacity>
+                   <TouchableOpacity
+                    style={styles.featureButton}
+                    onPress={() => navigation.navigate('Main', { screen: 'AgroRent' })}
+                  >
+                    <Image source={require('../assets/Images/others/agrorent.jpeg')} style={styles.featureImage} />
+                    <Text style={styles.buttonText}>🚜 AgroRent</Text>
+                  </TouchableOpacity>
+                  
                 </View>
                 <View style={styles.featureRow}>
                  
